@@ -6,4 +6,4 @@ It displays a timeline of significant dates and achievements of Jensen Huang.
 
 [Live Demo](https://josephtrandev.github.io/Timeline-Web-Project/)
 
-![Demo Preview](https://i.postimg.cc/Px2BKbKh/image.png)
+[![Demo Preview](https://i.postimg.cc/Px2BKbKh/image.png)](https://josephtrandev.github.io/Timeline-Web-Project/)
